@@ -1,5 +1,5 @@
 import java.time.Instant;
-import java.time.Duration; // Přidán import pro Duration
+import java.time.Duration; 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
